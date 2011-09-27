@@ -2,4 +2,6 @@ The provided scripts were used to allow billing of print jobs based on
 coverage. They are specialized to our environment but should be adjustable to
 different scenarios.
 
+tea4cups and pkpgcounter are required to use the scripts.
+
 All scripts are licensed under the GPLv3, see COPYING.
